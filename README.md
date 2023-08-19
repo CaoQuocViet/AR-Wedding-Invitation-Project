@@ -10,6 +10,8 @@ Get a glimpse of the AR Wedding Invitation experience by watching the video belo
 
 [![AR Wedding Invitation Video](https://img.youtube.com/vi/MfpYFZWqypw/0.jpg)](https://youtu.be/MfpYFZWqypw)
 *Click the image above to watch the video.*
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/MfpYFZWqypw)" frameborder="0" allowfullscreen></iframe>
+
 
 ## Table of Contents
 
