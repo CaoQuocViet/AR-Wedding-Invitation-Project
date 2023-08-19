@@ -1,4 +1,4 @@
-# AR Wedding Invitation
+# AR Wedding Invitation - Unity build
 
 Welcome to the AR Wedding Invitation project! This project showcases an innovative and interactive way to deliver wedding details using augmented reality technology. Guests can experience the joy of our special day through their devices, witnessing virtual elements that breathe life into our love story and event information. This guide will walk you through the process of setting up and running the AR Wedding Invitation application.
 
