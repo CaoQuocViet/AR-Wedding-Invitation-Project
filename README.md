@@ -2,16 +2,22 @@
 
 Welcome to the AR Wedding Invitation project! This project showcases an innovative and interactive way to deliver wedding details using augmented reality technology. Guests can experience the joy of our special day through their devices, witnessing virtual elements that breathe life into our love story and event information. This guide will walk you through the process of setting up and running the AR Wedding Invitation application.
 
-![AR Wedding Invitation](Demo.png)
+<p align="center">
+  <img src="Demo.png" alt="AR Wedding Invitation" width="600">
+</p>
 
 ## Video Preview
 
 Get a glimpse of the AR Wedding Invitation experience by watching the video below:
 
-[![AR Wedding Invitation Video](https://img.youtube.com/vi/MfpYFZWqypw/0.jpg)](https://youtu.be/MfpYFZWqypw)
-*Click the image above to watch the video.*
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/MfpYFZWqypw)" frameborder="0" allowfullscreen></iframe>
-
+<p align="center">
+  <a href="https://youtu.be/MfpYFZWqypw">
+    <img src="https://img.youtube.com/vi/MfpYFZWqypw/0.jpg" alt="AR Wedding Invitation Video" width="800">
+  </a>
+</p>
+<p align="center">
+  <em>Click the image above to watch the video.</em>
+</p>
 
 ## Table of Contents
 
