@@ -9,6 +9,7 @@ Welcome to the AR Wedding Invitation project! This project showcases an innovati
 Get a glimpse of the AR Wedding Invitation experience by watching the video below:
 
 [![AR Wedding Invitation Video](https://img.youtube.com/vi/MfpYFZWqypw/0.jpg)](https://youtu.be/MfpYFZWqypw)
+*Click the image above to watch the video.*
 
 ## Table of Contents
 
