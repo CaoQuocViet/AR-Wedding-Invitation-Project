@@ -1,6 +1,6 @@
-# AR Wedding Invitation
+# AR Wedding Invitation - Android APK Build and Installation
 
-Welcome to the AR Wedding Invitation project! This project showcases an innovative and interactive way to deliver wedding details using augmented reality technology. Guests can experience the joy of our special day through their devices, witnessing virtual elements that breathe life into our love story and event information. This guide will walk you through the process of setting up and running the AR Wedding Invitation application.
+Welcome to the AR Wedding Invitation project! This project showcases an innovative and interactive way to deliver wedding details using augmented reality technology. Guests can experience the joy of our special day through their devices, witnessing virtual elements that breathe life into our love story and event information. This guide will walk you through the process of setting up and running the AR Wedding Invitation Android application.
 
 <p align="center">
   <img src="Demo.png" alt="AR Wedding Invitation" width="600">
@@ -19,79 +19,57 @@ Get a glimpse of the AR Wedding Invitation experience by watching the video belo
   <em>Click the image above to watch the video.</em>
 </p>
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [Advanced Steps](#advanced-steps)
-  - [Extracting Model Files](#extracting-model-files)
-  - [Configuring Vuforia](#configuring-vuforia)
-  - [Updating Targets](#updating-targets)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Getting Started
+
+To run the AR Wedding Invitation Android application on your device, follow these steps:
 
 ### Prerequisites
 
-Before you begin, ensure you have the following:
-
 - [Unity](https://unity.com/) installed on your machine.
-- A compatible device for AR testing, such as a smartphone or tablet.
+- An Android device connected to your computer.
 
-### Installation
-
-1. Clone this repository to your local machine using the following command:
+1. Clone this repository to your local machine:
 git clone https://github.com/YourUsername/AR-Wedding-Invitation-Project.git
 
 2. Open UnityHub and add the project by selecting the folder where you cloned the repository.
 
-### Usage
+3. Set up your Android device for development by enabling Developer Mode and USB Debugging.
 
-1. Launch Unity and open the AR Wedding Invitation project.
-2. Navigate to the appropriate scene for the AR experience.
-3. Set up your AR device or emulator for testing.
-4. Build and run the project to enjoy the immersive AR Wedding Invitation.
+4. In Unity, navigate to "File" > "Build Settings."
 
-## Advanced Steps
+5. Select the "Android" platform and click on the "Switch Platform" button.
 
-### Extracting Model Files
+6. Adjust the build settings, including the package name and other configurations.
 
-1. Locate the `Assets\Model\` directory within the project.
-2. Extract the contents of `Stage (1).rar` and move the extracted files to `Assets\Model\`.
+7. Build the project by clicking on the "Build" button.
 
-Repeat this process for the `Assets\Stage\` directory using the `Stage_F1inal.rar` file.
+### Exporting and Installing the APK
 
-### Configuring Vuforia
+1. After the build is complete, locate the generated `.apk` file in the `Build` folder of your project.
 
-If the Vuforia target has expired, follow these steps:
+2. Transfer the `.apk` file to your Android device using a USB cable or other transfer methods.
 
-1. Visit the [Vuforia Developer Portal](https://developer.vuforia.com/).
-2. Create a new target image or object.
-3. Download the target database and import it into your Unity project.
+3. On your Android device, go to "Settings" > "Security" or "Privacy."
 
-### Updating Targets
+4. Enable the "Unknown sources" option to allow the installation of apps from sources other than the Play Store.
 
-If the AR Wedding Invitation targets have changed or expired, you can update them by:
+5. Open a file manager app on your Android device and locate the transferred `.apk` file.
 
-1. Opening the Vuforia configuration within Unity.
-2. Replacing the old target images or objects with the new ones.
+6. Tap on the `.apk` file to start the installation process.
 
-## Troubleshooting
+7. Follow the on-screen instructions to complete the installation.
 
-If you encounter issues during setup or usage, please consult the [Troubleshooting Guide](TROUBLESHOOTING.md) for common solutions.
+8. Once the installation is complete, you can find and launch the AR Wedding Invitation app from your device's app drawer.
 
-## Contributing
+## Notes
 
-Contributions to the AR Wedding Invitation project are welcome! To contribute, follow these steps:
-1. Fork this repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Submit a pull request to the main repository.
+- If you encounter any issues while building or installing the Android application, please refer to the troubleshooting section in the [wiki](https://github.com/YourUsername/AR-Wedding-Invitation-Project/wiki).
+- Make sure to replace `YourUsername` in the repository URL with your actual GitHub username.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+For more information about the AR Wedding Invitation project and its development, please visit the [project repository](https://github.com/YourUsername/AR-Wedding-Invitation-Project).
